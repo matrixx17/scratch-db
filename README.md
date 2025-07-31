@@ -39,10 +39,10 @@ A simple event-driven TCP server and client implementation in C++ demonstrating 
 ### Build
 ```bash
 # Compile server
-g++ -std=c++11 -O2 -Wall -o server server.cpp
+g++ -std=c++11 -O2 -Wall -o server tcp_server.cpp
 
 # Compile client  
-g++ -std=c++11 -O2 -Wall -o client client.cpp
+g++ -std=c++11 -O2 -Wall -o client tcp_client.cpp
 ```
 
 ### Run
