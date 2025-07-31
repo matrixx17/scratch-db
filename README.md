@@ -34,7 +34,7 @@ A simple event-driven TCP server and client implementation in C++ demonstrating 
 ├── README.md
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Build
 ```bash
